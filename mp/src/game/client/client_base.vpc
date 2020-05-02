@@ -1266,4 +1266,9 @@ $Project
 		$Libexternal "$SRCDIR\lib\common\$(CRYPTOPPDIR)\libssl" [$LINUXALL]
  	}
 
+	$Folder "MagicBloom"
+	{
+		$File	"magicbloom_rendertargets.cpp"
+	}
+
 }

@@ -1,0 +1,13 @@
+"magicbloom_blend"
+{
+    "$fbtexture" "_rt_FullFrameFB"
+    "$dirttexture" "dev\lensdirt"
+    "$bloom_layer1" "_rt_MBloomL1"
+    "$bloom_layer2" "_rt_MBloomL2"
+    "$bloom_layer3" "_rt_MBloomL3"
+    "$bloom_layer4" "_rt_MBloomL4"
+    "$bloom_layer5" "_rt_MBloomL5"
+    "$bloom_layer6" "_rt_MBloomL6"
+    "$bloom_layer7" "_rt_MBloomL7"
+    "$bloom_layer8" "_rt_MBloomL8"
+}

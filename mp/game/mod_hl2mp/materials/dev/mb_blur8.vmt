@@ -1,0 +1,5 @@
+"magicbloom_blur_2"
+{
+    "$fbtexture" "_rt_MBloomL7"
+    "$scale" "256"
+}
